@@ -30,5 +30,6 @@ Out of the helpful voted reviews. 16 of them were part of the vine program and 1
 Overall the result shows that there is not a bias result leaning to the vine program. Based on the percentage, the total of five star rating is relevantly the same for both the vine program and non-vine program. 
 
 ![image](https://github.com/sunnycywong/Module-16_-Amazon_Vine_Analysis/blob/main/Star%20rating%20mean.png)
+
 Another comparison was performed on the mean of the star rating. The mean rating for vine program was 3.44 and for non-vine program is 3.16. The difference is not too big, which is also proven the result is not bias leaning toward only one side of the data group. 
 
