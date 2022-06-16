@@ -1,7 +1,7 @@
 # Module-16_-Amazon_Vine_Analysis
 
 ## (1) Overview 
-To analyze Amazon reviews by members of the paid Amazon Vine program. 
+To analyze the Amazon Product Reviews by using the ETL process to extract the dataset and use PySpark, Pandas, or SQL to determine if there is any bias toward favorable reviews from Vine members in the dataset.
 
 ## (2) Results                                                                     
 ![image](https://github.com/sunnycywong/Module-16_-Amazon_Vine_Analysis/blob/main/Total%20Votes_More%20than%2020.png)
